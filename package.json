@@ -1,8 +1,8 @@
 {
-  "name": "react-input-mask",
+  "name": "@iam4x/react-input-mask",
   "description": "Masked input component for React",
-  "version": "3.0.0-alpha.2",
-  "homepage": "https://github.com/sanniassin/react-input-mask",
+  "version": "3.0.0-alpha.3",
+  "homepage": "https://github.com/mobileclub/react-input-mask",
   "license": "MIT",
   "author": "Nikita Lobachev <sanniassin@gmail.com>",
   "keywords": [
